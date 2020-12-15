@@ -1,0 +1,5 @@
+br\com\ApiRestConsumer\JsonPlaceHolder\Main\JsonPlaceHolderApplication.class
+br\com\ApiRestConsumer\JsonPlaceHolder\Main\Service\PostsService.class
+br\com\ApiRestConsumer\JsonPlaceHolder\Main\Repository\PostsRepository.class
+br\com\ApiRestConsumer\JsonPlaceHolder\Main\Controller\PostsController.class
+br\com\ApiRestConsumer\JsonPlaceHolder\Main\Model\Posts.class
